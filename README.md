@@ -42,3 +42,15 @@
 <a href="https://instagram.com/gy.uri03">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
+
+<a href="https://velog.io/@gyurii">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
+
+<a href="https://velog.io/@gy_uri03.log">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
+
+<a href="https://kyuri4815@naver.com.tistory.com">
+<img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/>
+</a>
