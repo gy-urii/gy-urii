@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=gy-urii's%20GitHub&fontSize=42" />
 <h3>
-반갑습니다! 김규리입니다
+안녕하세요! 김규리입니다
 <img src="https://i.pinimg.com/736x/6c/fc/81/6cfc810bc5295ced69638649e3ac8d9c.jpg" width="25" height="25">
 </h3>
 
