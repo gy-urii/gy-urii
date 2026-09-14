@@ -45,9 +45,3 @@
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 </a>
 
-
-## 🌱 Contribution
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gy-urii)
-
-</div>
